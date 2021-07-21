@@ -1,0 +1,30 @@
+{
+  "id": "2687446",
+  "name": "project",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "122568",
+      "name": "shop-cart",
+      "font_class": "shopcart",
+      "unicode": "e6ed",
+      "unicode_decimal": 59117
+    },
+    {
+      "icon_id": "271677",
+      "name": "Icon_Rightrow",
+      "font_class": "iconrightrow",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "21524424",
+      "name": "down_row",
+      "font_class": "down_row",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
